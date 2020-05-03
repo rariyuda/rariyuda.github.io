@@ -1,0 +1,23 @@
+.merah{
+	background-color: red; 
+}
+.pink{
+	background-color: pink;
+	color: blue;
+}
+.biru{
+	background-color: blue;
+	color: white;
+}
+.orange{
+	background-color: orange;
+}
+.pemisah{
+	margin-top: 20px;
+}
+.ani1{
+	background: url('../image/gambar.png');
+    height: 100px;
+}
+.background-img{
+}
